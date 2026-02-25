@@ -1,4 +1,4 @@
-# Banking System
+# Bank Account Management System
 
 A simple Java-based banking system demonstrating core object-oriented programming concepts including encapsulation, composition, and basic banking operations.
 
